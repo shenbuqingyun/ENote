@@ -1,0 +1,2 @@
+# ENote
+hope Lucky
